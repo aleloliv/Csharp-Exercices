@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\bin\Debug\net6.0\FuncoesString.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\bin\Debug\net6.0\FuncoesString.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\bin\Debug\net6.0\FuncoesString.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\bin\Debug\net6.0\FuncoesString.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\bin\Debug\net6.0\FuncoesString.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\refint\FuncoesString.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\FuncoesString.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\FuncoesString\FuncoesString\obj\Debug\net6.0\ref\FuncoesString.dll

@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\bin\Debug\net6.0\DesafioSemOOP.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\bin\Debug\net6.0\DesafioSemOOP.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\bin\Debug\net6.0\DesafioSemOOP.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\bin\Debug\net6.0\DesafioSemOOP.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\bin\Debug\net6.0\DesafioSemOOP.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\refint\DesafioSemOOP.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\DesafioSemOOP.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioSemOOP\DesafioSemOOP\obj\Debug\net6.0\ref\DesafioSemOOP.dll

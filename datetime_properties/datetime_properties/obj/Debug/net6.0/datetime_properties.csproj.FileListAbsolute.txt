@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\bin\Debug\net6.0\datetime_properties.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\bin\Debug\net6.0\datetime_properties.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\bin\Debug\net6.0\datetime_properties.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\bin\Debug\net6.0\datetime_properties.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\bin\Debug\net6.0\datetime_properties.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\refint\datetime_properties.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\datetime_properties.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\datetime_properties\datetime_properties\obj\Debug\net6.0\ref\datetime_properties.dll

@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioPOO\DesafioPOO\obj\Debug\net6.0\ref\DesafioPOO.dll

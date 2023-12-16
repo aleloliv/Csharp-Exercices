@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net6.0\ExerciciosMembrosEstaticos.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net6.0\ExerciciosMembrosEstaticos.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net6.0\ExerciciosMembrosEstaticos.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net6.0\ExerciciosMembrosEstaticos.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net6.0\ExerciciosMembrosEstaticos.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\refint\ExerciciosMembrosEstaticos.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ExerciciosMembrosEstaticos.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net6.0\ref\ExerciciosMembrosEstaticos.dll

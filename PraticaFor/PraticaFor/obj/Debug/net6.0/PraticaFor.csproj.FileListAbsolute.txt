@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\bin\Debug\net6.0\PraticaFor.exe
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\bin\Debug\net6.0\PraticaFor.deps.json
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\bin\Debug\net6.0\PraticaFor.runtimeconfig.json
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\bin\Debug\net6.0\PraticaFor.dll
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\bin\Debug\net6.0\PraticaFor.pdb
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.AssemblyInfo.cs
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.dll
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\refint\PraticaFor.dll
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.pdb
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\PraticaFor.genruntimeconfig.cache
+C:\Users\alelo\source\repos\PraticaFor\PraticaFor\obj\Debug\net6.0\ref\PraticaFor.dll

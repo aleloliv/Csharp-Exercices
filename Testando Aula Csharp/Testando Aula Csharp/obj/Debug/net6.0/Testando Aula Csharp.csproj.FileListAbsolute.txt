@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\bin\Debug\net6.0\Testando Aula Csharp.exe
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\bin\Debug\net6.0\Testando Aula Csharp.deps.json
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\bin\Debug\net6.0\Testando Aula Csharp.runtimeconfig.json
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\bin\Debug\net6.0\Testando Aula Csharp.dll
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\bin\Debug\net6.0\Testando Aula Csharp.pdb
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.AssemblyInfo.cs
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.dll
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\refint\Testando Aula Csharp.dll
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.pdb
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\Testando Aula Csharp.genruntimeconfig.cache
+C:\Users\alelo\source\repos\Testando Aula Csharp\Testando Aula Csharp\obj\Debug\net6.0\ref\Testando Aula Csharp.dll

@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.AssemblyInfo.cs
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\bin\Debug\net6.0\ExercicioCursoCsharp1.exe
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\bin\Debug\net6.0\ExercicioCursoCsharp1.deps.json
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\bin\Debug\net6.0\ExercicioCursoCsharp1.runtimeconfig.json
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\bin\Debug\net6.0\ExercicioCursoCsharp1.dll
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\bin\Debug\net6.0\ExercicioCursoCsharp1.pdb
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.dll
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\refint\ExercicioCursoCsharp1.dll
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.pdb
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ExercicioCursoCsharp1.genruntimeconfig.cache
+C:\Users\alelo\source\repos\ExercicioCursoCsharp1\ExercicioCursoCsharp1\obj\Debug\net6.0\ref\ExercicioCursoCsharp1.dll

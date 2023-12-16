@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\bin\Debug\net6.0\ExerciciosCondicionaisProva.exe
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\bin\Debug\net6.0\ExerciciosCondicionaisProva.deps.json
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\bin\Debug\net6.0\ExerciciosCondicionaisProva.runtimeconfig.json
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\bin\Debug\net6.0\ExerciciosCondicionaisProva.dll
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\bin\Debug\net6.0\ExerciciosCondicionaisProva.pdb
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.AssemblyInfo.cs
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.dll
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\refint\ExerciciosCondicionaisProva.dll
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.pdb
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ExerciciosCondicionaisProva.genruntimeconfig.cache
+C:\Users\alelo\source\repos\ExerciciosCondicionaisProva\ExerciciosCondicionaisProva\obj\Debug\net6.0\ref\ExerciciosCondicionaisProva.dll

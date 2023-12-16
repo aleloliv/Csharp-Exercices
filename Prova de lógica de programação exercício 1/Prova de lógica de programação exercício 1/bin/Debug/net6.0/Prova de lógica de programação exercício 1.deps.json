@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prova de lógica de programação exercício 1/1.0.0": {
+        "runtime": {
+          "Prova de lógica de programação exercício 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova de lógica de programação exercício 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

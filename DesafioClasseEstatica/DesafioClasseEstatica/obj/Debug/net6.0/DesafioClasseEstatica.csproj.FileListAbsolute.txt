@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\bin\Debug\net6.0\DesafioClasseEstatica.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\bin\Debug\net6.0\DesafioClasseEstatica.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\bin\Debug\net6.0\DesafioClasseEstatica.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\bin\Debug\net6.0\DesafioClasseEstatica.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\bin\Debug\net6.0\DesafioClasseEstatica.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\refint\DesafioClasseEstatica.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\DesafioClasseEstatica.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DesafioClasseEstatica\DesafioClasseEstatica\obj\Debug\net6.0\ref\DesafioClasseEstatica.dll

@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\bin\Debug\net8.0\TimeSpanProperties.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\bin\Debug\net8.0\TimeSpanProperties.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\bin\Debug\net8.0\TimeSpanProperties.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\bin\Debug\net8.0\TimeSpanProperties.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\bin\Debug\net8.0\TimeSpanProperties.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\refint\TimeSpanProperties.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\TimeSpanProperties.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\TimeSpanProperties\TimeSpanProperties\obj\Debug\net8.0\ref\TimeSpanProperties.dll

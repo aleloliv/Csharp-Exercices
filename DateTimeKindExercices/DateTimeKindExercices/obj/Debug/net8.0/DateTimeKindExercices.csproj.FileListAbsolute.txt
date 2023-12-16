@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\bin\Debug\net8.0\DateTimeKindExercices.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\bin\Debug\net8.0\DateTimeKindExercices.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\bin\Debug\net8.0\DateTimeKindExercices.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\bin\Debug\net8.0\DateTimeKindExercices.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\bin\Debug\net8.0\DateTimeKindExercices.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\refint\DateTimeKindExercices.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\DateTimeKindExercices.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeKindExercices\DateTimeKindExercices\obj\Debug\net8.0\ref\DateTimeKindExercices.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prova de programação ex2/1.0.0": {
+        "runtime": {
+          "Prova de programação ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova de programação ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

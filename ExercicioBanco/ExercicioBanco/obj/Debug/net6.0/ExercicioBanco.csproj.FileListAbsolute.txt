@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\refint\ExercicioBanco.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ref\ExercicioBanco.dll

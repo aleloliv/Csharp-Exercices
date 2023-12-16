@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.AssemblyInfo.cs
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\bin\Debug\net6.0\DesafioArranjos.exe
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\bin\Debug\net6.0\DesafioArranjos.deps.json
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\bin\Debug\net6.0\DesafioArranjos.runtimeconfig.json
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\bin\Debug\net6.0\DesafioArranjos.dll
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\bin\Debug\net6.0\DesafioArranjos.pdb
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.dll
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\refint\DesafioArranjos.dll
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.pdb
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\DesafioArranjos.genruntimeconfig.cache
+C:\Users\alelo\source\repos\DesafioArranjos\DesafioArranjos\obj\Debug\net6.0\ref\DesafioArranjos.dll

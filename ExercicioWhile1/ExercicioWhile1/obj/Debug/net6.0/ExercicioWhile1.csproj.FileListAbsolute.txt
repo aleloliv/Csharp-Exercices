@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.exe
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.deps.json
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.runtimeconfig.json
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.dll
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.pdb
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.AssemblyInfo.cs
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.dll
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\refint\ExercicioWhile1.dll
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.pdb
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.genruntimeconfig.cache
+C:\Users\alelo\source\repos\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ref\ExercicioWhile1.dll

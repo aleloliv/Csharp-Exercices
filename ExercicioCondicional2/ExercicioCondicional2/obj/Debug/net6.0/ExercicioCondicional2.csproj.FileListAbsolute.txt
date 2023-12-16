@@ -1,0 +1,15 @@
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\bin\Debug\net6.0\ExercicioCondicional2.exe
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\bin\Debug\net6.0\ExercicioCondicional2.deps.json
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\bin\Debug\net6.0\ExercicioCondicional2.runtimeconfig.json
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\bin\Debug\net6.0\ExercicioCondicional2.dll
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\bin\Debug\net6.0\ExercicioCondicional2.pdb
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.AssemblyInfo.cs
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.dll
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\refint\ExercicioCondicional2.dll
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.pdb
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ExercicioCondicional2.genruntimeconfig.cache
+C:\Users\alelo\source\repos\ExercicioCondicional2\ExercicioCondicional2\obj\Debug\net6.0\ref\ExercicioCondicional2.dll

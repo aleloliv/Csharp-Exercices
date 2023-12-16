@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\bin\Debug\net6.0\ExerciciosClasses.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\refint\ExerciciosClasses.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ExerciciosClasses.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasses\ExerciciosClasses\obj\Debug\net6.0\ref\ExerciciosClasses.dll

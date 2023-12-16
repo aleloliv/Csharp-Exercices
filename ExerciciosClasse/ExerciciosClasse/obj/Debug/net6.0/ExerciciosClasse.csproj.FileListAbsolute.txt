@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\bin\Debug\net6.0\ExerciciosClasse.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\bin\Debug\net6.0\ExerciciosClasse.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\bin\Debug\net6.0\ExerciciosClasse.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\bin\Debug\net6.0\ExerciciosClasse.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\bin\Debug\net6.0\ExerciciosClasse.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.csproj.AssemblyReference.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\refint\ExerciciosClasse.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ExerciciosClasse.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExerciciosClasse\ExerciciosClasse\obj\Debug\net6.0\ref\ExerciciosClasse.dll

@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net6.0\DateTimeFunction.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net6.0\DateTimeFunction.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net6.0\DateTimeFunction.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net6.0\DateTimeFunction.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net6.0\DateTimeFunction.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\refint\DateTimeFunction.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\DateTimeFunction.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net6.0\ref\DateTimeFunction.dll

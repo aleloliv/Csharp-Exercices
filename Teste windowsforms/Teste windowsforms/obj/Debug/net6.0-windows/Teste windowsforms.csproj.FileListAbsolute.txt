@@ -1,0 +1,18 @@
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\bin\Debug\net6.0-windows\Teste windowsforms.exe
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\bin\Debug\net6.0-windows\Teste windowsforms.deps.json
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\bin\Debug\net6.0-windows\Teste windowsforms.runtimeconfig.json
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\bin\Debug\net6.0-windows\Teste windowsforms.dll
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\bin\Debug\net6.0-windows\Teste windowsforms.pdb
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.csproj.AssemblyReference.cache
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste_windowsforms.Form1.resources
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste_windowsforms.Form2.resources
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.csproj.GenerateResource.cache
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.AssemblyInfoInputs.cache
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.AssemblyInfo.cs
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.dll
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\refint\Teste windowsforms.dll
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.pdb
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\Teste windowsforms.genruntimeconfig.cache
+C:\Users\alelo\source\repos\Teste windowsforms\Teste windowsforms\obj\Debug\net6.0-windows\ref\Teste windowsforms.dll
