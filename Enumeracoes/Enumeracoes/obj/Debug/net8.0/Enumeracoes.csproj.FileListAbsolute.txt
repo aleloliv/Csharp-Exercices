@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\refint\Enumeracoes.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Enumeracoes\Enumeracoes\obj\Debug\net8.0\ref\Enumeracoes.dll

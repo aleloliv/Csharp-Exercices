@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\refint\Composicao.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\Composicao\Composicao\obj\Debug\net8.0\ref\Composicao.dll

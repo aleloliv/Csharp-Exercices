@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net8.0\ExercicioEnumEComp.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net8.0\ExercicioEnumEComp.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net8.0\ExercicioEnumEComp.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net8.0\ExercicioEnumEComp.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\bin\Debug\net8.0\ExercicioEnumEComp.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\refint\ExercicioEnumEComp.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ExercicioEnumEComp.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioEnumEComp\ExercicioEnumEComp\obj\Debug\net8.0\ref\ExercicioEnumEComp.dll

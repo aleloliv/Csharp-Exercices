@@ -1,0 +1,14 @@
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.exe
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.deps.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.runtimeconfig.json
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\bin\Debug\net8.0\ExercicioStringBuilder.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\refint\ExercicioStringBuilder.dll
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.pdb
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ExercicioStringBuilder.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Trabalho1\Curso\Cursos\C#\ExercicioStringBuilder\ExercicioStringBuilder\obj\Debug\net8.0\ref\ExercicioStringBuilder.dll
