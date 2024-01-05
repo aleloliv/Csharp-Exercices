@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\bin\Debug\net8.0\Sobrescrita.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\bin\Debug\net8.0\Sobrescrita.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\bin\Debug\net8.0\Sobrescrita.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\bin\Debug\net8.0\Sobrescrita.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\bin\Debug\net8.0\Sobrescrita.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\refint\Sobrescrita.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\Sobrescrita.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Sobrescrita\Sobrescrita\obj\Debug\net8.0\ref\Sobrescrita.dll

@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\bin\Debug\net8.0\ExercicioFixacaoExcecoes.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\bin\Debug\net8.0\ExercicioFixacaoExcecoes.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\bin\Debug\net8.0\ExercicioFixacaoExcecoes.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\bin\Debug\net8.0\ExercicioFixacaoExcecoes.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\bin\Debug\net8.0\ExercicioFixacaoExcecoes.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\refint\ExercicioFixacaoExcecoes.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ExercicioFixacaoExcecoes.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoExcecoes\ExercicioFixacaoExcecoes\obj\Debug\net8.0\ref\ExercicioFixacaoExcecoes.dll

@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\bin\Debug\net8.0\ExercicioFixacaoMetAbs.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\bin\Debug\net8.0\ExercicioFixacaoMetAbs.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\bin\Debug\net8.0\ExercicioFixacaoMetAbs.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\bin\Debug\net8.0\ExercicioFixacaoMetAbs.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\bin\Debug\net8.0\ExercicioFixacaoMetAbs.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\refint\ExercicioFixacaoMetAbs.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ExercicioFixacaoMetAbs.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoMetAbs\ExercicioFixacaoMetAbs\obj\Debug\net8.0\ref\ExercicioFixacaoMetAbs.dll

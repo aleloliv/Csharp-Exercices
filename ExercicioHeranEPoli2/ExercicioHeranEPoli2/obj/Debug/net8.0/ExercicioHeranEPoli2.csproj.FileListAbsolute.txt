@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\bin\Debug\net8.0\ExercicioHeranEPoli2.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\bin\Debug\net8.0\ExercicioHeranEPoli2.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\bin\Debug\net8.0\ExercicioHeranEPoli2.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\bin\Debug\net8.0\ExercicioHeranEPoli2.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\bin\Debug\net8.0\ExercicioHeranEPoli2.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\refint\ExercicioHeranEPoli2.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ExercicioHeranEPoli2.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli2\ExercicioHeranEPoli2\obj\Debug\net8.0\ref\ExercicioHeranEPoli2.dll

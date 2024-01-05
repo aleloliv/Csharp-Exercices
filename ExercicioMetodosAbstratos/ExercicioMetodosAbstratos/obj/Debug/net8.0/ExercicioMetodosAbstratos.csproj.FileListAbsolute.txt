@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\net8.0\ExercicioMetodosAbstratos.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\refint\ExercicioMetodosAbstratos.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ExercicioMetodosAbstratos.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\net8.0\ref\ExercicioMetodosAbstratos.dll

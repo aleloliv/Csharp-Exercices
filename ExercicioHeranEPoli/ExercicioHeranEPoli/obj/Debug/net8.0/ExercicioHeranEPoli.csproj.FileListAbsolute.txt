@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\bin\Debug\net8.0\ExercicioHeranEPoli.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\bin\Debug\net8.0\ExercicioHeranEPoli.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\bin\Debug\net8.0\ExercicioHeranEPoli.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\bin\Debug\net8.0\ExercicioHeranEPoli.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\bin\Debug\net8.0\ExercicioHeranEPoli.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\refint\ExercicioHeranEPoli.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ExercicioHeranEPoli.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioHeranEPoli\ExercicioHeranEPoli\obj\Debug\net8.0\ref\ExercicioHeranEPoli.dll
