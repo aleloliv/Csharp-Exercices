@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\refint\ExercicioArquivos.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ref\ExercicioArquivos.dll
