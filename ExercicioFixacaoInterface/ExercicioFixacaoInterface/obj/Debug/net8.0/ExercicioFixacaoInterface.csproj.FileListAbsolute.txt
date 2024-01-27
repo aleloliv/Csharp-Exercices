@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\bin\Debug\net8.0\ExercicioFixacaoInterface.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\refint\ExercicioFixacaoInterface.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ExercicioFixacaoInterface.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\ExercicioFixacaoInterface\ExercicioFixacaoInterface\obj\Debug\net8.0\ref\ExercicioFixacaoInterface.dll
