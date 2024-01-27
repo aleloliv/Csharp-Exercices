@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\Interfaces\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
