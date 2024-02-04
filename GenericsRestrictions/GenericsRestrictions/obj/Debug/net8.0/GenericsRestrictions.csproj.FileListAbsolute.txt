@@ -1,0 +1,15 @@
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\bin\Debug\net8.0\GenericsRestrictions.exe
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\bin\Debug\net8.0\GenericsRestrictions.deps.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\bin\Debug\net8.0\GenericsRestrictions.runtimeconfig.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\bin\Debug\net8.0\GenericsRestrictions.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\bin\Debug\net8.0\GenericsRestrictions.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.AssemblyInfoInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.AssemblyInfo.cs
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.csproj.CoreCompileInputs.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.sourcelink.json
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\refint\GenericsRestrictions.dll
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.pdb
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\GenericsRestrictions.genruntimeconfig.cache
+C:\Users\alelo\OneDrive\Curso\Cursos\C#\GenericsRestrictions\GenericsRestrictions\obj\Debug\net8.0\ref\GenericsRestrictions.dll
